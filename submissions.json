@@ -1,4 +1,20 @@
 {
+  "CF225102020": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1882\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/1882/problem/A",
+    "submission_id": "CF225102020",
+    "submission_url": "https://codeforces.com/contest/1882/submission/225102020",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/25/2023 20:13"
+  },
   "CF231142058": {
     "contest_id": 1895,
     "language": "C++20 (GCC 11-64)",
