@@ -1,4 +1,24 @@
 {
+  "CF232201994": {
+    "contest_id": 1895,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1895\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Torn Lucky Ticket",
+    "problem_url": "https://codeforces.com/contest/1895/problem/C",
+    "submission_id": "CF232201994",
+    "submission_url": "https://codeforces.com/contest/1895/submission/232201994",
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Nov/10/2023 15:02"
+  },
   "CF232208029": {
     "contest_id": 1893,
     "language": "C++20 (GCC 11-64)",
