@@ -1,4 +1,23 @@
 {
+  "CF232208029": {
+    "contest_id": 1893,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1893\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anonymous Informant",
+    "problem_url": "https://codeforces.com/contest/1893/problem/A",
+    "submission_id": "CF232208029",
+    "submission_url": "https://codeforces.com/contest/1893/submission/232208029",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/10/2023 16:01"
+  },
   "CF234399755": {
     "contest_id": 1901,
     "language": "C++20 (GCC 11-64)",
