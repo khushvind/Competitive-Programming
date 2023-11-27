@@ -1,4 +1,20 @@
 {
+  "CF234636020": {
+    "contest_id": 1883,
+    "language": "PyPy 3-64",
+    "path": "codeforces\\1883\\F.py",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "You Are So Beautiful",
+    "problem_url": "https://codeforces.com/contest/1883/problem/F",
+    "submission_id": "CF234636020",
+    "submission_url": "https://codeforces.com/contest/1883/submission/234636020",
+    "tags": [
+      "data structures",
+      "*1400"
+    ],
+    "timestamp": "Nov/28/2023 01:25"
+  },
   "CF234850357": {
     "contest_id": 1883,
     "language": "C++20 (GCC 11-64)",
