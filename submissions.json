@@ -1,4 +1,21 @@
 {
+  "CF235764009": {
+    "contest_id": 1903,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1903\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Theofanis' Nightmare",
+    "problem_url": "https://codeforces.com/contest/1903/problem/C",
+    "submission_id": "CF235764009",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235764009",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/05/2023 00:47"
+  },
   "CF235824556": {
     "contest_id": 1878,
     "language": "C++20 (GCC 11-64)",
