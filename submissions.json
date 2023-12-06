@@ -1,4 +1,21 @@
 {
+  "CF236063808": {
+    "contest_id": 1907,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1907\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Jumping Through Segments",
+    "problem_url": "https://codeforces.com/contest/1907/problem/D",
+    "submission_id": "CF236063808",
+    "submission_url": "https://codeforces.com/contest/1907/submission/236063808",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "*1400"
+    ],
+    "timestamp": "Dec/06/2023 19:48"
+  },
   "CF236176792": {
     "contest_id": 1875,
     "language": "C++20 (GCC 11-64)",
