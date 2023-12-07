@@ -1,4 +1,21 @@
 {
+  "CF236202232": {
+    "contest_id": 1873,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1873\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "ABBC or BACB",
+    "problem_url": "https://codeforces.com/contest/1873/problem/G",
+    "submission_id": "CF236202232",
+    "submission_url": "https://codeforces.com/contest/1873/submission/236202232",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Dec/07/2023 18:27"
+  },
   "CF236323381": {
     "contest_id": 1872,
     "language": "C++20 (GCC 11-64)",
