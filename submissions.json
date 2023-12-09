@@ -1,4 +1,21 @@
 {
+  "CF236529186": {
+    "contest_id": 1904,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1904\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forked!",
+    "problem_url": "https://codeforces.com/contest/1904/problem/A",
+    "submission_id": "CF236529186",
+    "submission_url": "https://codeforces.com/contest/1904/submission/236529186",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/09/2023 21:49"
+  },
   "CF236540528": {
     "contest_id": 1904,
     "language": "C++20 (GCC 11-64)",
