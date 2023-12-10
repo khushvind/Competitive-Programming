@@ -1,4 +1,24 @@
 {
+  "CF236616730": {
+    "contest_id": 1904,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1904\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Array Game",
+    "problem_url": "https://codeforces.com/contest/1904/problem/C",
+    "submission_id": "CF236616730",
+    "submission_url": "https://codeforces.com/contest/1904/submission/236616730",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/10/2023 11:37"
+  },
   "CF236631967": {
     "contest_id": 1878,
     "language": "C++20 (GCC 11-64)",
