@@ -1,4 +1,24 @@
 {
+  "CF236989185": {
+    "contest_id": 1858,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1858\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Walkway",
+    "problem_url": "https://codeforces.com/contest/1858/problem/B",
+    "submission_id": "CF236989185",
+    "submission_url": "https://codeforces.com/contest/1858/submission/236989185",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Dec/13/2023 13:40"
+  },
   "CF237006896": {
     "contest_id": 1857,
     "language": "C++20 (GCC 11-64)",
