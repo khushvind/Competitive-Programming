@@ -1,4 +1,23 @@
 {
+  "CF237623838": {
+    "contest_id": 1845,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1845\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strong Password",
+    "problem_url": "https://codeforces.com/contest/1845/problem/C",
+    "submission_id": "CF237623838",
+    "submission_url": "https://codeforces.com/contest/1845/submission/237623838",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Dec/17/2023 19:45"
+  },
   "CF237638200": {
     "contest_id": 1838,
     "language": "C++20 (GCC 11-64)",
