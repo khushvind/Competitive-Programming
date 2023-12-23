@@ -18,6 +18,25 @@
     ],
     "timestamp": "Dec/21/2023 20:28"
   },
+  "CF238463478": {
+    "contest_id": 1903,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1903\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Maximum And Queries (easy version)",
+    "problem_url": "https://codeforces.com/contest/1903/problem/D1",
+    "submission_id": "CF238463478",
+    "submission_url": "https://codeforces.com/contest/1903/submission/238463478",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Dec/23/2023 13:29"
+  },
   "CF238489126": {
     "contest_id": 1898,
     "language": "C++20 (GCC 11-64)",
