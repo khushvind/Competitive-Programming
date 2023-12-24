@@ -1,4 +1,24 @@
 {
+  "CF238663894": {
+    "contest_id": 1902,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1902\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Insert and Equalize",
+    "problem_url": "https://codeforces.com/contest/1902/problem/C",
+    "submission_id": "CF238663894",
+    "submission_url": "https://codeforces.com/contest/1902/submission/238663894",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Dec/24/2023 18:03"
+  },
   "CF238717653": {
     "contest_id": 1893,
     "language": "C++20 (GCC 11-64)",
