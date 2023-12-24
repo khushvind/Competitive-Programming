@@ -1,4 +1,24 @@
 {
+  "CF238754297": {
+    "contest_id": 1917,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1917\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Erase First or Second Letter",
+    "problem_url": "https://codeforces.com/contest/1917/problem/B",
+    "submission_id": "CF238754297",
+    "submission_url": "https://codeforces.com/contest/1917/submission/238754297",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Dec/25/2023 00:20"
+  },
   "CF238860931": {
     "contest_id": 1917,
     "language": "C++20 (GCC 11-64)",
