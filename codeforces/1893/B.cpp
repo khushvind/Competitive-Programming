@@ -20,12 +20,12 @@ int solve(){
         } else if (i < n && b[j] < a[i]){
             c[k] = a[i];
             i++;
-        } else if (i < n){
-            c[k] = a[i];
-            i++;
-        } else {
+        } else if (j < m){
             c[k] = b[j];
             j++;
+        } else {
+            c[k] = a[i];
+            i++;
         }
     }
     for (auto x: c){
