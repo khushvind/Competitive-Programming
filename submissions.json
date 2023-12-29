@@ -184,6 +184,28 @@
     ],
     "timestamp": "Dec/27/2023 19:10"
   },
+  "CF239483788": {
+    "contest_id": 1833,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1833\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ira and Flamenco",
+    "problem_url": "https://codeforces.com/contest/1833/problem/F",
+    "submission_id": "CF239483788",
+    "submission_url": "https://codeforces.com/contest/1833/submission/239483788",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Dec/29/2023 16:50"
+  },
   "CF239513985": {
     "contest_id": 1837,
     "language": "C++20 (GCC 11-64)",
