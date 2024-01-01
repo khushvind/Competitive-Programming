@@ -16,7 +16,7 @@ int solve(){
     ll curr = last;
     for (int i = 1 ; i < n; i++){
         ll x = a[i-1], y = a[i];
-        curr = b[i-1];
+        curr = last;
         if (x > y){
             while (x > y){
                 curr++;
@@ -30,7 +30,7 @@ int solve(){
             curr = max(0LL,curr);
         }
         ans += curr;
-        b[i] = curr;
+        last = curr;
     }
     // for (auto x: b){
     //     cout << x << ' ';
