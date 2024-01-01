@@ -16,20 +16,21 @@ int solve(){
     ll curr = last;
     for (int i = 1 ; i < n; i++){
         ll x = a[i-1], y = a[i];
-        b[i] = b[i-1];
+        curr = b[i-1];
         if (x > y){
             while (x > y){
-                b[i]++;
+                curr++;
                 y*= 2;
             }
         } else {
             while (x*2 <= y ){
-                b[i]--;
+                curr--;
                 x*= 2;
             }
-            b[i] = max(0LL,b[i]);
+            curr = max(0LL,curr);
         }
-        ans += b[i];
+        ans += curr;
+        b[i] = curr;
     }
     // for (auto x: b){
     //     cout << x << ' ';
