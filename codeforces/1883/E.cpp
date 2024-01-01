@@ -10,33 +10,24 @@ int solve(){
     for (int i=0; i<n; i++){
         cin >> a[i];
     }
+    vector<ll> b(n);
     ll ans = 0;
-    vector<ll> b(n,0);
     ll last = 0;
-    ll curr = last;
-    for (int i = 1 ; i < n; i++){
-        ll x = a[i-1], y = a[i];
-        curr = last;
-        if (x > y){
-            while (x > y){
-                curr++;
-                y*= 2;
-            }
-        } else {
-            while (x*2 <= y ){
-                curr--;
-                x*= 2;
-            }
-            curr = max(0LL,curr);
-        }
-        ans += curr;
-        last = curr;
+    for (int i = 1; i < n; i++){
+        if (a[i] >= a[i - 1]) {
+    		int c = 0, x = a[i - 1], y = a[i];
+    		while (x * 2 <= y) x *= 2, c++;
+    		ll cur = max(0ll, last - c);
+    		ans += cur;
+    		last = cur;
+    	} else {
+    		int c = 0, x = a[i - 1], y = a[i];
+    		while (y < x) y *= 2, c++;
+    		ll cur = last + c;
+    		ans += cur;
+    		last = cur;
+    	}
     }
-    // for (auto x: b){
-    //     cout << x << ' ';
-    // }
-    // cout << endl;
-    
     cout << ans << endl;
     return 0;
 }

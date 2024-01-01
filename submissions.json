@@ -184,6 +184,23 @@
     ],
     "timestamp": "Dec/27/2023 19:10"
   },
+  "CF239883499": {
+    "contest_id": 1883,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1883\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Look Back",
+    "problem_url": "https://codeforces.com/contest/1883/problem/E",
+    "submission_id": "CF239883499",
+    "submission_url": "https://codeforces.com/contest/1883/submission/239883499",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jan/01/2024 18:06"
+  },
   "CF239884186": {
     "contest_id": 1883,
     "language": "C++20 (GCC 11-64)",
