@@ -1,4 +1,23 @@
 {
+  "CF239904866": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1896\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Matching Arrays",
+    "problem_url": "https://codeforces.com/contest/1896/problem/C",
+    "submission_id": "CF239904866",
+    "submission_url": "https://codeforces.com/contest/1896/submission/239904866",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jan/01/2024 21:31"
+  },
   "CF241169635": {
     "contest_id": 1810,
     "language": "C++20 (GCC 11-64)",
