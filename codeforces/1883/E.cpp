@@ -36,7 +36,7 @@ int solve(){
     // }
     // cout << endl;
     
-    cout << accumulate(b.begin(),b.end(),0LL) << endl;
+    cout << ans << endl;
     return 0;
 }
 
