@@ -220,6 +220,24 @@
     ],
     "timestamp": "Jan/01/2024 21:31"
   },
+  "CF240004983": {
+    "contest_id": 1835,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1835\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "k-th equality",
+    "problem_url": "https://codeforces.com/contest/1835/problem/A",
+    "submission_id": "CF240004983",
+    "submission_url": "https://codeforces.com/contest/1835/submission/240004983",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/02/2024 20:25"
+  },
   "CF240020487": {
     "contest_id": 1849,
     "language": "C++20 (GCC 11-64)",
