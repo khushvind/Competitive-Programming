@@ -220,6 +220,23 @@
     ],
     "timestamp": "Jan/01/2024 21:31"
   },
+  "CF240138136": {
+    "contest_id": 1824,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1824\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "LuoTianyi and the Show",
+    "problem_url": "https://codeforces.com/contest/1824/problem/A",
+    "submission_id": "CF240138136",
+    "submission_url": "https://codeforces.com/contest/1824/submission/240138136",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jan/03/2024 22:30"
+  },
   "CF240202320": {
     "contest_id": 1829,
     "language": "C++20 (GCC 11-64)",
