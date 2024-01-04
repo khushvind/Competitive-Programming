@@ -220,6 +220,25 @@
     ],
     "timestamp": "Jan/01/2024 21:31"
   },
+  "CF240239403": {
+    "contest_id": 1829,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1829\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Hits Different",
+    "problem_url": "https://codeforces.com/contest/1829/problem/G",
+    "submission_id": "CF240239403",
+    "submission_url": "https://codeforces.com/contest/1829/submission/240239403",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/04/2024 19:31"
+  },
   "CF240384405": {
     "contest_id": 1826,
     "language": "C++20 (GCC 11-64)",
