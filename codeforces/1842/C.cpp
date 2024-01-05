@@ -1,37 +1,34 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-using ll = long long;
-#define FOR(a,b) for(long long i = a; i < b; i++)
 
-int solve(){
-  int n; cin >> n;
-  vector<int> a(n);
-  for (int i=0; i<n; i++) cin >> a[i];
-  vector<int> dp(n+1);
-  vector<int> used(n+1);
-  int ans = 0;
-  
-  for (int i = 0; i <n; i++){
-    int v = dp[a[i]];
-    if (!used[a[i]]){
-      used[a[i]] = 1;
-      dp[a[i]] = ans - i;
-    } else {
-      dp[a[i]] = max(dp[a[i]], ans - i);
-      ans =  max(ans , v+i+1); 
+#ifdef LOCAL
+#include "algo/debug.h"
+#else
+#define debug(...) 42
+#endif
+
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  int tt;
+  cin >> tt;
+  while (tt--) {
+    int n;
+    cin >> n;
+    vector<int> a(n);
+    for (int i = 0; i < n; i++) {
+      cin >> a[i];
     }
+    const int inf = (int) 1e9;
+    vector<int> dp(n + 1, -inf);
+    dp[0] = 0;
+    for (int i = 0; i < n; i++) {
+      int v = dp[a[i]];
+      dp[a[i]] = max(dp[a[i]], dp[0] - i);
+      dp[0] = max(dp[0], v + i + 1);
+    }
+    cout << dp[0] << '\n';
   }
-
-  cout << ans << endl;
-  return 0;
-}
-
-int main(void){
-  int times;
-  cin >> times;
-  while (times--) {
-    solve();
-  };
   return 0;
 }
