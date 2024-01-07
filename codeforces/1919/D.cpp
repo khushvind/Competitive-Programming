@@ -13,12 +13,12 @@ int solve(){
         nx[i] = i+1;
         pr[i] = i-1;
     }
-    vector<int> order(n);
-    iota(order.begin(),order.end(),0);
-    sort(order.begin(),order.end(), [&] (int i , int j ){
-        return a[i] > a[j];
-    });
-    for (auto i: order){
+    priority_queue<pair<int,int>> pq;
+    for (int i= 0; i < n; i++){
+        pq.push({a[i],i});
+    }
+    while (!pq.empty()){
+        int i = pq.top().second; pq.pop();
         int mx = -1;
         if (pr[i] != -1) mx = max(mx, a[pr[i]]);
         if (nx[i] != n) mx = max(mx, a[nx[i]]);
