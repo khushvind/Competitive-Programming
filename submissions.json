@@ -220,6 +220,26 @@
     ],
     "timestamp": "Jan/01/2024 21:31"
   },
+  "CF240835552": {
+    "contest_id": 1822,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1822\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Gardening Friends",
+    "problem_url": "https://codeforces.com/contest/1822/problem/F",
+    "submission_id": "CF240835552",
+    "submission_url": "https://codeforces.com/contest/1822/submission/240835552",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Jan/08/2024 21:33"
+  },
   "CF240848374": {
     "contest_id": 1822,
     "language": "C++20 (GCC 11-64)",
