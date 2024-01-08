@@ -220,6 +220,24 @@
     ],
     "timestamp": "Jan/01/2024 21:31"
   },
+  "CF240848374": {
+    "contest_id": 1822,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1822\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Making Anti-Palindromes",
+    "problem_url": "https://codeforces.com/contest/1822/problem/E",
+    "submission_id": "CF240848374",
+    "submission_url": "https://codeforces.com/contest/1822/submission/240848374",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Jan/08/2024 23:06"
+  },
   "CF240950773": {
     "contest_id": 1817,
     "language": "C++20 (GCC 11-64)",
