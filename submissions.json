@@ -1,4 +1,21 @@
 {
+  "CF241169635": {
+    "contest_id": 1810,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1810\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Climbing the Tree",
+    "problem_url": "https://codeforces.com/contest/1810/problem/D",
+    "submission_id": "CF241169635",
+    "submission_url": "https://codeforces.com/contest/1810/submission/241169635",
+    "tags": [
+      "binary search",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/11/2024 19:09"
+  },
   "CF241287511": {
     "contest_id": 1809,
     "language": "C++20 (GCC 11-64)",
