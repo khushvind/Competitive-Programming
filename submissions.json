@@ -1,4 +1,22 @@
 {
+  "CF241287511": {
+    "contest_id": 1809,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1809\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum on Subarrays",
+    "problem_url": "https://codeforces.com/contest/1809/problem/C",
+    "submission_id": "CF241287511",
+    "submission_url": "https://codeforces.com/contest/1809/submission/241287511",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/12/2024 19:15"
+  },
   "CF241308329": {
     "contest_id": 1807,
     "language": "C++20 (GCC 11-64)",
