@@ -14,7 +14,7 @@ int solve(){
             sz[i] = sz[i-1]+1;
             lst_add[i] = x;
         } else {
-            sz[i] = ((x + 1) > ((ll)1e18 +1LL)  / sz[i - 1]) ? (ll)2e18+1LL : sz[i - 1] * (x + 1);
+            sz[i] = ((x + 1) > 2e18 / sz[i - 1]) ? (ll)2e18 : sz[i - 1] * (x + 1);
             lst_add[i] = lst_add[i-1];
         }
     }
