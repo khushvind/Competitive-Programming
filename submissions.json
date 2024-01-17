@@ -1,4 +1,23 @@
 {
+  "CF242110613": {
+    "contest_id": 1804,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1804\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pull Your Luck",
+    "problem_url": "https://codeforces.com/contest/1804/problem/C",
+    "submission_id": "CF242110613",
+    "submission_url": "https://codeforces.com/contest/1804/submission/242110613",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jan/17/2024 22:49"
+  },
   "CF242251185": {
     "contest_id": 1922,
     "language": "C++20 (GCC 11-64)",
