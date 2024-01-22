@@ -1,4 +1,21 @@
 {
+  "CF242828028": {
+    "contest_id": 1796,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1796\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maximum Set",
+    "problem_url": "https://codeforces.com/contest/1796/problem/C",
+    "submission_id": "CF242828028",
+    "submission_url": "https://codeforces.com/contest/1796/submission/242828028",
+    "tags": [
+      "binary search",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/22/2024 14:50"
+  },
   "CF242915457": {
     "contest_id": 1795,
     "language": "C++20 (GCC 11-64)",
