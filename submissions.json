@@ -1,4 +1,21 @@
 {
+  "CF244419720": {
+    "contest_id": 1790,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1790\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vlad and a Pair of Numbers",
+    "problem_url": "https://codeforces.com/contest/1790/problem/E",
+    "submission_id": "CF244419720",
+    "submission_url": "https://codeforces.com/contest/1790/submission/244419720",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1400"
+    ],
+    "timestamp": "Feb/01/2024 20:50"
+  },
   "CF244580537": {
     "contest_id": 1783,
     "language": "C++20 (GCC 11-64)",
