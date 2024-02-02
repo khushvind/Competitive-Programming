@@ -1,4 +1,22 @@
 {
+  "CF244580537": {
+    "contest_id": 1783,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1783\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Tournament",
+    "problem_url": "https://codeforces.com/contest/1783/problem/C",
+    "submission_id": "CF244580537",
+    "submission_url": "https://codeforces.com/contest/1783/submission/244580537",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Feb/02/2024 22:31"
+  },
   "CF244660086": {
     "contest_id": 1918,
     "language": "C++20 (GCC 11-64)",
