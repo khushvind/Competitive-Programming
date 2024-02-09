@@ -15,7 +15,7 @@ int solve(){
     for (int i = m; i < n; i++){
         pq1.push(a[i]);
         s+= a[i];
-        if (s < 0){
+        while (s < 0){
             s -= 2*pq1.top();
             pq1.pop();
             ans++;
@@ -25,7 +25,7 @@ int solve(){
     for (int i = m-1; i > 0; i--){
         pq2.push(a[i]);
         s+= a[i];
-        if (s > 0){
+        while (s > 0){
             s -= 2*pq2.top();
             pq2.pop();
             ans++;
