@@ -9,6 +9,12 @@ int solve(){
     vector<int> a(n),b(m);
     for (int i=0; i<n; i++) cin >> a[i];
     for (int i=0; i<m; i++) cin >> b[i];
+    sort(a.begin(),a.end()); sort(b.begin(),b.end());
+    // n = unique(a.begin(),a.end()) - a.begin();
+    // m = unique(b.begin(),b.end()) - b.begin();
+
+    a.erase(unique(a.begin(), a.end()), a.end());
+    b.erase(unique(b.begin(), b.end()), b.end());
     set<int> st1,st2;
     for (int i = 0 ; i < a.size() ; i++){
         if (a[i] <= k) st1.insert(a[i]);
