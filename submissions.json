@@ -1,4 +1,25 @@
 {
+  "CF247721229": {
+    "contest_id": 1929,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1929\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sasha and the Casino",
+    "problem_url": "https://codeforces.com/contest/1929/problem/C",
+    "submission_id": "CF247721229",
+    "submission_url": "https://codeforces.com/contest/1929/submission/247721229",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Feb/22/2024 15:11"
+  },
   "CF249028255": {
     "contest_id": 1868,
     "language": "C++20 (GCC 11-64)",
