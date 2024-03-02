@@ -1,4 +1,24 @@
 {
+  "CF249378997": {
+    "contest_id": 1777,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1777\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Quiz Master",
+    "problem_url": "https://codeforces.com/contest/1777/problem/C",
+    "submission_id": "CF249378997",
+    "submission_url": "https://codeforces.com/contest/1777/submission/249378997",
+    "tags": [
+      "binary search",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/03/2024 02:11"
+  },
   "CF249679652": {
     "contest_id": 1775,
     "language": "C++20 (GCC 11-64)",
