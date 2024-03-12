@@ -20,24 +20,24 @@ int solve(){
             y++;
         }
     }
-    if (x+y <= z){
-        cout << "First" << endl;
-    } else if (z+y < x){
-        cout << "Second" << endl;
-    } else {
-        cout << "Tie" << endl;
-    }
-    // int t = min(x,z);
-    // x-= t; z-= t;
-    // if (y == 0 && x == 0 && y== 0){
+    // if (x+y <= z){
     //     cout << "First" << endl;
-    // } else if (x == 0){
-    //     if (y <= z) cout << "First"<< endl;
-    //     else cout << "Tie" << endl;
+    // } else if (z+y < x){
+    //     cout << "Second" << endl;
     // } else {
-    //     if (y < x) cout << "Second"<< endl;
-    //     else cout << "Tie" << endl;
+    //     cout << "Tie" << endl;
     // }
+    int t = min(x,z);
+    x-= t; z-= t;
+    if (y == 0 && x == 0 && y== 0){
+        cout << "First" << endl;
+    } else if (x == 0){
+        if (y <= z) cout << "First"<< endl;
+        else cout << "Tie" << endl;
+    } else {
+        if (y < x) cout << "Second"<< endl;
+        else cout << "Tie" << endl;
+    }
 
     return 0;
 }
