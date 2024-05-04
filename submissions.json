@@ -1,4 +1,24 @@
 {
+  "CF259558834": {
+    "contest_id": 1922,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1922\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Increasing Subsequences",
+    "problem_url": "https://codeforces.com/contest/1922/problem/E",
+    "submission_id": "CF259558834",
+    "submission_url": "https://codeforces.com/contest/1922/submission/259558834",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "divide and conquer",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/05/2024 02:10"
+  },
   "CF259619712": {
     "contest_id": 1926,
     "language": "C++20 (GCC 13-64)",
