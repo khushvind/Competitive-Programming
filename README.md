@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [C++20 (GCC 13-64)](./codeforces/1932/E.cpp) | `implementation` `math` `number theory` `*1600` | May/06/2024 18:18 | 
+2 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [C++20 (GCC 13-64)](./codeforces/1932/E.cpp) | `implementation` `math` `number theory` `*1600` | May/06/2024 18:18 | 
+1 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++20 (GCC 13-64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | May/05/2024 16:10 | 
