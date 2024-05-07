@@ -3218,6 +3218,25 @@
     ],
     "timestamp": "May/06/2024 18:18"
   },
+  "CF259850570": {
+    "contest_id": 1933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1933\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Turtle vs. Rabbit Race: Optimal Trainings",
+    "problem_url": "https://codeforces.com/contest/1933/problem/E",
+    "submission_id": "CF259850570",
+    "submission_url": "https://codeforces.com/contest/1933/submission/259850570",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "ternary search",
+      "*1500"
+    ],
+    "timestamp": "May/07/2024 14:34"
+  },
   "CF260023499": {
     "contest_id": 1934,
     "language": "C++20 (GCC 13-64)",
