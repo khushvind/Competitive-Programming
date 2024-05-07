@@ -7,28 +7,34 @@ using ll = long long;
 ll calc(ll u,ll k){
     return (k*u - ((k-1)*k)/2);
 }
-
+ 
 int solve() {
     ll n; cin >> n;
-    vector<int> a(n),presum(n+1);
-    for (int i=0; i<n; i++) cin >> a[i];
-    for (int i=0; i<n; i++)presum[i+1] = presum[i]+a[i];
+    vector<ll> a(n);
+    for (int i = 0; i < n; i++) cin >> a[i];
+    vector<ll> s(n + 1);
+    for (int i = 0; i < n; i++) s[i + 1] = s[i] + a[i];
     ll q; cin >> q;
-    while (q--){
-        ll l,u; cin >> l >> u;
-        ll id = lower_bound(presum.begin()+l,presum.end(), u+presum[l-1]) - presum.begin();
-        ll sum1= calc(u,presum[id-1]-presum[l-1]), sum2 = calc(u,presum[id]-presum[l-1]);
-        if (id <= l){
-            cout << l << " " ; 
-        } else if (id<n+1){
-            if (sum1 >= sum2){
-                cout << id-1 << " ";
-            } else {
-                cout << id << " ";
+    while (q--) {
+        ll l, u;
+        std::cin >> l >> u;
+        l--;
+        int j = lower_bound(s.begin() + l + 1, s.end(), s[l] + u) - s.begin();
+        ll ans = -1E18;
+        ll r = -1;
+        if (j <= n) {
+            if (calc(u, s[j] - s[l]) > ans) {
+                ans = calc(u, s[j] - s[l]);
+                r = j;
             }
-        } else {
-            cout << n << " ";
         }
+        if (j - 1 > l) {
+            if (calc(u, s[j - 1] - s[l]) >= ans) {
+                ans = calc(u, s[j - 1] - s[l]);
+                r = j - 1;
+            }
+        }
+        cout << r << " ";
     }
     cout << endl;
     return 0;
