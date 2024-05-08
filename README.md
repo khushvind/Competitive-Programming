@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-165 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [C++20 (GCC 13-64)](./codeforces/1931/F.cpp) | `combinatorics` `dfs and similar` `graphs` `*1700` | May/09/2024 15:16 | 
+166 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [C++20 (GCC 13-64)](./codeforces/1931/F.cpp) | `combinatorics` `dfs and similar` `graphs` `*1700` | May/09/2024 15:16 | 
+165 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++20 (GCC 13-64)](./codeforces/1934/C.cpp) | `binary search` `constructive algorithms` `geometry` `greedy` `interactive` `math` `*1700` | May/08/2024 21:35 | 
 164 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [C++20 (GCC 13-64)](./codeforces/1932/E.cpp) | `implementation` `math` `number theory` `*1600` | May/06/2024 18:18 | 
 163 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++20 (GCC 13-64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` `*1500` | May/05/2024 16:10 | 
 162 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [C++17 (GCC 7-32)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `divide and conquer` `greedy` `math` `*1800` | May/05/2024 02:10 | 
