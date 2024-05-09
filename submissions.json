@@ -3217,5 +3217,23 @@
       "*1600"
     ],
     "timestamp": "May/06/2024 18:18"
+  },
+  "CF260100555": {
+    "contest_id": 1931,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1931\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Chat Screenshots",
+    "problem_url": "https://codeforces.com/contest/1931/problem/F",
+    "submission_id": "CF260100555",
+    "submission_url": "https://codeforces.com/contest/1931/submission/260100555",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/09/2024 15:16"
   }
 }
