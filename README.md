@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-181 | [D - Slimes](https://codeforces.com/contest/1923/problem/D) | [C++20 (GCC 13-64)](./codeforces/1923/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | May/15/2024 17:43 | 
-180 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | May/14/2024 22:41 | 
-179 | [A - Bitwise Operation Wizard](https://codeforces.com/contest/1936/problem/A) | [C++20 (GCC 13-64)](./codeforces/1936/A.cpp) | `bitmasks` `constructive algorithms` `greedy` `interactive` `math` `*1700` | May/13/2024 22:14 | 
-178 | [E - Binary Search](https://codeforces.com/contest/1945/problem/E) | [C++20 (GCC 13-64)](./codeforces/1945/E.cpp) | `binary search` `constructive algorithms` `greedy` `*1700` | May/13/2024 12:07 | 
+182 | [D - Slimes](https://codeforces.com/contest/1923/problem/D) | [C++20 (GCC 13-64)](./codeforces/1923/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | May/15/2024 17:43 | 
+181 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | May/14/2024 22:41 | 
+180 | [A - Bitwise Operation Wizard](https://codeforces.com/contest/1936/problem/A) | [C++20 (GCC 13-64)](./codeforces/1936/A.cpp) | `bitmasks` `constructive algorithms` `greedy` `interactive` `math` `*1700` | May/13/2024 22:14 | 
+179 | [E - Binary Search](https://codeforces.com/contest/1945/problem/E) | [C++20 (GCC 13-64)](./codeforces/1945/E.cpp) | `binary search` `constructive algorithms` `greedy` `*1700` | May/13/2024 12:07 | 
+178 | [F - Rudolf and Imbalance](https://codeforces.com/contest/1941/problem/F) | [C++20 (GCC 13-64)](./codeforces/1941/F.cpp) | `binary search` `greedy` `sortings` `two pointers` `*1800` | May/12/2024 15:57 | 
 177 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [C++20 (GCC 13-64)](./codeforces/1931/F.cpp) | `combinatorics` `dfs and similar` `graphs` `*1700` | May/09/2024 15:16 | 
 176 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++20 (GCC 13-64)](./codeforces/1934/C.cpp) | `binary search` `constructive algorithms` `geometry` `greedy` `interactive` `math` `*1700` | May/08/2024 21:35 | 
 175 | [E - Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/contest/1933/problem/E) | [C++20 (GCC 13-64)](./codeforces/1933/E.cpp) | `binary search` `implementation` `math` `ternary search` `*1500` | May/07/2024 14:34 | 

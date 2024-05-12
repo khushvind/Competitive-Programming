@@ -3475,6 +3475,25 @@
     ],
     "timestamp": "May/09/2024 15:16"
   },
+  "CF260647338": {
+    "contest_id": 1941,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1941\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rudolf and Imbalance",
+    "problem_url": "https://codeforces.com/contest/1941/problem/F",
+    "submission_id": "CF260647338",
+    "submission_url": "https://codeforces.com/contest/1941/submission/260647338",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/12/2024 15:57"
+  },
   "CF260750491": {
     "contest_id": 1945,
     "language": "C++20 (GCC 13-64)",
