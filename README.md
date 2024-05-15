@@ -1,5 +1,6 @@
 Submissions
 ======================
+> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
 
 ## Introduction
 
@@ -11,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+178 | [D - Slimes](https://codeforces.com/contest/1923/problem/D) | [C++20 (GCC 13-64)](./codeforces/1923/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | May/15/2024 17:43 | 
 177 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [C++20 (GCC 13-64)](./codeforces/1931/F.cpp) | `combinatorics` `dfs and similar` `graphs` `*1700` | May/09/2024 15:16 | 
 176 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++20 (GCC 13-64)](./codeforces/1934/C.cpp) | `binary search` `constructive algorithms` `geometry` `greedy` `interactive` `math` `*1700` | May/08/2024 21:35 | 
 175 | [E - Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/contest/1933/problem/E) | [C++20 (GCC 13-64)](./codeforces/1933/E.cpp) | `binary search` `implementation` `math` `ternary search` `*1500` | May/07/2024 14:34 | 
