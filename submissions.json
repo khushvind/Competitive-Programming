@@ -3589,6 +3589,27 @@
     ],
     "timestamp": "May/15/2024 17:43"
   },
+  "CF261465809": {
+    "contest_id": 1973,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1973\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cat, Fox and the Lonely Array",
+    "problem_url": "https://codeforces.com/contest/1973/problem/B",
+    "submission_id": "CF261465809",
+    "submission_url": "https://codeforces.com/contest/1973/submission/261465809",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "May/18/2024 11:22"
+  },
   "CF261496067": {
     "contest_id": 1973,
     "language": "C++20 (GCC 13-64)",
