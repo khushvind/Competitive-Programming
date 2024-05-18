@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-188 | [B - Binary Colouring](https://codeforces.com/contest/1977/problem/B) | [C++20 (GCC 13-64)](./codeforces/1977/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | May/26/2024 20:37 | 
-187 | [A - Little Nikita](https://codeforces.com/contest/1977/problem/A) | [C++20 (GCC 13-64)](./codeforces/1977/A.cpp) | `math` | May/26/2024 20:07 | 
-186 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` | May/26/2024 15:27 | 
-185 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` | May/25/2024 20:29 | 
-184 | [A - Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | [C++20 (GCC 13-64)](./codeforces/1975/A.cpp) | `brute force` `greedy` `implementation` `sortings` | May/25/2024 20:13 | 
+189 | [B - Binary Colouring](https://codeforces.com/contest/1977/problem/B) | [C++20 (GCC 13-64)](./codeforces/1977/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | May/26/2024 20:37 | 
+188 | [A - Little Nikita](https://codeforces.com/contest/1977/problem/A) | [C++20 (GCC 13-64)](./codeforces/1977/A.cpp) | `math` | May/26/2024 20:07 | 
+187 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` | May/26/2024 15:27 | 
+186 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` | May/25/2024 20:29 | 
+185 | [A - Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | [C++20 (GCC 13-64)](./codeforces/1975/A.cpp) | `brute force` `greedy` `implementation` `sortings` | May/25/2024 20:13 | 
+184 | [C - Cat, Fox and Double Maximum](https://codeforces.com/contest/1973/problem/C) | [C++20 (GCC 13-64)](./codeforces/1973/C.cpp) | `constructive algorithms` `greedy` `implementation` `math` `sortings` `*1700` | May/18/2024 14:33 | 
 183 | [D - Slimes](https://codeforces.com/contest/1923/problem/D) | [C++20 (GCC 13-64)](./codeforces/1923/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | May/15/2024 17:43 | 
 182 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | May/14/2024 22:41 | 
 181 | [A - Bitwise Operation Wizard](https://codeforces.com/contest/1936/problem/A) | [C++20 (GCC 13-64)](./codeforces/1936/A.cpp) | `bitmasks` `constructive algorithms` `greedy` `interactive` `math` `*1700` | May/13/2024 22:14 | 

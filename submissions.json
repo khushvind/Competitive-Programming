@@ -3589,6 +3589,26 @@
     ],
     "timestamp": "May/15/2024 17:43"
   },
+  "CF261496067": {
+    "contest_id": 1973,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1973\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cat, Fox and Double Maximum",
+    "problem_url": "https://codeforces.com/contest/1973/problem/C",
+    "submission_id": "CF261496067",
+    "submission_url": "https://codeforces.com/contest/1973/submission/261496067",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/18/2024 14:33"
+  },
   "CF262526339": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
