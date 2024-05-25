@@ -3589,6 +3589,24 @@
     ],
     "timestamp": "May/15/2024 17:43"
   },
+  "CF262542892": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1975\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "378QAQ and Mocha's Array",
+    "problem_url": "https://codeforces.com/contest/1975/problem/B",
+    "submission_id": "CF262542892",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262542892",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "May/25/2024 20:29"
+  },
   "CF262685087": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
