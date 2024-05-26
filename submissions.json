@@ -3588,5 +3588,23 @@
       "*1800"
     ],
     "timestamp": "May/15/2024 17:43"
+  },
+  "CF262747589": {
+    "contest_id": 1977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1977\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary Colouring",
+    "problem_url": "https://codeforces.com/contest/1977/problem/B",
+    "submission_id": "CF262747589",
+    "submission_url": "https://codeforces.com/contest/1977/submission/262747589",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "May/26/2024 20:37"
   }
 }
