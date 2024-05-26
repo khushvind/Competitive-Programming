@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-184 | [B - Binary Colouring](https://codeforces.com/contest/1977/problem/B) | [C++20 (GCC 13-64)](./codeforces/1977/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | May/26/2024 20:37 | 
+185 | [B - Binary Colouring](https://codeforces.com/contest/1977/problem/B) | [C++20 (GCC 13-64)](./codeforces/1977/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` | May/26/2024 20:37 | 
+184 | [A - Little Nikita](https://codeforces.com/contest/1977/problem/A) | [C++20 (GCC 13-64)](./codeforces/1977/A.cpp) | `math` | May/26/2024 20:07 | 
 183 | [D - Slimes](https://codeforces.com/contest/1923/problem/D) | [C++20 (GCC 13-64)](./codeforces/1923/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | May/15/2024 17:43 | 
 182 | [C2 - Bessie's Birthday Cake (Hard Version)](https://codeforces.com/contest/1942/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1942/C2.cpp) | `geometry` `greedy` `math` `*1700` | May/14/2024 22:41 | 
 181 | [A - Bitwise Operation Wizard](https://codeforces.com/contest/1936/problem/A) | [C++20 (GCC 13-64)](./codeforces/1936/A.cpp) | `bitmasks` `constructive algorithms` `greedy` `interactive` `math` `*1700` | May/13/2024 22:14 | 
