@@ -75,9 +75,15 @@ int solve(){
         graph[x].push_back(y);
         graph[y].push_back(x);
     }
+    // cout << "HI" << endl;
+    // return 0;
     auto x  = get_mid_pt(graph,a,b);
     int pt = x.first, alp = x.second;
+    // cout << pt << " " << alp << endl;
+    // return 0;
     int d = find_d(graph,pt);
+    // cout << d << endl;
+    // return 0;
     cout << (2*(n-1)-d+alp) << endl;
 
     return 0;
