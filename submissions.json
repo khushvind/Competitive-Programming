@@ -3735,6 +3735,24 @@
     ],
     "timestamp": "May/26/2024 20:37"
   },
+  "CF263283065": {
+    "contest_id": 1976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1976\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Verify Password",
+    "problem_url": "https://codeforces.com/contest/1976/problem/A",
+    "submission_id": "CF263283065",
+    "submission_url": "https://codeforces.com/contest/1976/submission/263283065",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/30/2024 20:18"
+  },
   "CF263354374": {
     "contest_id": 1976,
     "language": "C++20 (GCC 13-64)",
