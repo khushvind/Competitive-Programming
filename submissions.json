@@ -3734,5 +3734,27 @@
       "math"
     ],
     "timestamp": "May/26/2024 20:37"
+  },
+  "CF265662598": {
+    "contest_id": 1977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1977\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nikita and LCM",
+    "problem_url": "https://codeforces.com/contest/1977/problem/C",
+    "submission_id": "CF265662598",
+    "submission_url": "https://codeforces.com/contest/1977/submission/265662598",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jun/13/2024 22:33"
   }
 }
